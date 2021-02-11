@@ -1,6 +1,6 @@
 # Demo
 test
-Feature1 --newDay
+Feature1 -ms
 feature2
 feature3
 newday
